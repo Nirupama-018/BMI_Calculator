@@ -1,0 +1,2634 @@
+{
+  "1": [
+    {
+      "age_months": 24.0,
+      "underweight_threshold": 14.7373,
+      "overweight_threshold": 18.0984,
+      "obesity_threshold": 20.3657
+    },
+    {
+      "age_months": 24.5,
+      "underweight_threshold": 14.7193,
+      "overweight_threshold": 18.0566,
+      "obesity_threshold": 20.3216
+    },
+    {
+      "age_months": 25.5,
+      "underweight_threshold": 14.6836,
+      "overweight_threshold": 17.9751,
+      "obesity_threshold": 20.2374
+    },
+    {
+      "age_months": 26.5,
+      "underweight_threshold": 14.6484,
+      "overweight_threshold": 17.8968,
+      "obesity_threshold": 20.1583
+    },
+    {
+      "age_months": 27.5,
+      "underweight_threshold": 14.6138,
+      "overweight_threshold": 17.8216,
+      "obesity_threshold": 20.0843
+    },
+    {
+      "age_months": 28.5,
+      "underweight_threshold": 14.5797,
+      "overweight_threshold": 17.7494,
+      "obesity_threshold": 20.0153
+    },
+    {
+      "age_months": 29.5,
+      "underweight_threshold": 14.5461,
+      "overweight_threshold": 17.6801,
+      "obesity_threshold": 19.9512
+    },
+    {
+      "age_months": 30.5,
+      "underweight_threshold": 14.5132,
+      "overweight_threshold": 17.6138,
+      "obesity_threshold": 19.892
+    },
+    {
+      "age_months": 31.5,
+      "underweight_threshold": 14.4808,
+      "overweight_threshold": 17.5504,
+      "obesity_threshold": 19.8376
+    },
+    {
+      "age_months": 32.5,
+      "underweight_threshold": 14.4491,
+      "overweight_threshold": 17.4898,
+      "obesity_threshold": 19.7879
+    },
+    {
+      "age_months": 33.5,
+      "underweight_threshold": 14.418,
+      "overweight_threshold": 17.432,
+      "obesity_threshold": 19.7429
+    },
+    {
+      "age_months": 34.5,
+      "underweight_threshold": 14.3875,
+      "overweight_threshold": 17.377,
+      "obesity_threshold": 19.7024
+    },
+    {
+      "age_months": 35.5,
+      "underweight_threshold": 14.3577,
+      "overweight_threshold": 17.3247,
+      "obesity_threshold": 19.6664
+    },
+    {
+      "age_months": 36.5,
+      "underweight_threshold": 14.3285,
+      "overweight_threshold": 17.2751,
+      "obesity_threshold": 19.6348
+    },
+    {
+      "age_months": 37.5,
+      "underweight_threshold": 14.3,
+      "overweight_threshold": 17.2282,
+      "obesity_threshold": 19.6075
+    },
+    {
+      "age_months": 38.5,
+      "underweight_threshold": 14.2722,
+      "overweight_threshold": 17.1838,
+      "obesity_threshold": 19.5846
+    },
+    {
+      "age_months": 39.5,
+      "underweight_threshold": 14.2451,
+      "overweight_threshold": 17.1421,
+      "obesity_threshold": 19.5658
+    },
+    {
+      "age_months": 40.5,
+      "underweight_threshold": 14.2187,
+      "overweight_threshold": 17.1028,
+      "obesity_threshold": 19.5511
+    },
+    {
+      "age_months": 41.5,
+      "underweight_threshold": 14.193,
+      "overweight_threshold": 17.0661,
+      "obesity_threshold": 19.5405
+    },
+    {
+      "age_months": 42.5,
+      "underweight_threshold": 14.168,
+      "overweight_threshold": 17.0317,
+      "obesity_threshold": 19.5338
+    },
+    {
+      "age_months": 43.5,
+      "underweight_threshold": 14.1437,
+      "overweight_threshold": 16.9998,
+      "obesity_threshold": 19.531
+    },
+    {
+      "age_months": 44.5,
+      "underweight_threshold": 14.1201,
+      "overweight_threshold": 16.9702,
+      "obesity_threshold": 19.532
+    },
+    {
+      "age_months": 45.5,
+      "underweight_threshold": 14.0972,
+      "overweight_threshold": 16.9429,
+      "obesity_threshold": 19.5367
+    },
+    {
+      "age_months": 46.5,
+      "underweight_threshold": 14.0751,
+      "overweight_threshold": 16.9179,
+      "obesity_threshold": 19.5451
+    },
+    {
+      "age_months": 47.5,
+      "underweight_threshold": 14.0537,
+      "overweight_threshold": 16.895,
+      "obesity_threshold": 19.5571
+    },
+    {
+      "age_months": 48.5,
+      "underweight_threshold": 14.033,
+      "overweight_threshold": 16.8744,
+      "obesity_threshold": 19.5726
+    },
+    {
+      "age_months": 49.5,
+      "underweight_threshold": 14.013,
+      "overweight_threshold": 16.8559,
+      "obesity_threshold": 19.5914
+    },
+    {
+      "age_months": 50.5,
+      "underweight_threshold": 13.9937,
+      "overweight_threshold": 16.8395,
+      "obesity_threshold": 19.6136
+    },
+    {
+      "age_months": 51.5,
+      "underweight_threshold": 13.9751,
+      "overweight_threshold": 16.8251,
+      "obesity_threshold": 19.6391
+    },
+    {
+      "age_months": 52.5,
+      "underweight_threshold": 13.9572,
+      "overweight_threshold": 16.8127,
+      "obesity_threshold": 19.6678
+    },
+    {
+      "age_months": 53.5,
+      "underweight_threshold": 13.94,
+      "overweight_threshold": 16.8023,
+      "obesity_threshold": 19.6995
+    },
+    {
+      "age_months": 54.5,
+      "underweight_threshold": 13.9235,
+      "overweight_threshold": 16.7939,
+      "obesity_threshold": 19.7343
+    },
+    {
+      "age_months": 55.5,
+      "underweight_threshold": 13.9077,
+      "overweight_threshold": 16.7874,
+      "obesity_threshold": 19.772
+    },
+    {
+      "age_months": 56.5,
+      "underweight_threshold": 13.8926,
+      "overweight_threshold": 16.7827,
+      "obesity_threshold": 19.8125
+    },
+    {
+      "age_months": 57.5,
+      "underweight_threshold": 13.8781,
+      "overweight_threshold": 16.7799,
+      "obesity_threshold": 19.8559
+    },
+    {
+      "age_months": 58.5,
+      "underweight_threshold": 13.8643,
+      "overweight_threshold": 16.779,
+      "obesity_threshold": 19.9019
+    },
+    {
+      "age_months": 59.5,
+      "underweight_threshold": 13.8511,
+      "overweight_threshold": 16.7798,
+      "obesity_threshold": 19.9506
+    },
+    {
+      "age_months": 60.5,
+      "underweight_threshold": 13.8385,
+      "overweight_threshold": 16.7824,
+      "obesity_threshold": 20.0018
+    },
+    {
+      "age_months": 61.5,
+      "underweight_threshold": 13.8266,
+      "overweight_threshold": 16.7868,
+      "obesity_threshold": 20.0555
+    },
+    {
+      "age_months": 62.5,
+      "underweight_threshold": 13.8154,
+      "overweight_threshold": 16.7928,
+      "obesity_threshold": 20.1116
+    },
+    {
+      "age_months": 63.5,
+      "underweight_threshold": 13.8047,
+      "overweight_threshold": 16.8006,
+      "obesity_threshold": 20.17
+    },
+    {
+      "age_months": 64.5,
+      "underweight_threshold": 13.7947,
+      "overweight_threshold": 16.8101,
+      "obesity_threshold": 20.2307
+    },
+    {
+      "age_months": 65.5,
+      "underweight_threshold": 13.7853,
+      "overweight_threshold": 16.8212,
+      "obesity_threshold": 20.2935
+    },
+    {
+      "age_months": 66.5,
+      "underweight_threshold": 13.7765,
+      "overweight_threshold": 16.834,
+      "obesity_threshold": 20.3586
+    },
+    {
+      "age_months": 67.5,
+      "underweight_threshold": 13.7682,
+      "overweight_threshold": 16.8483,
+      "obesity_threshold": 20.4256
+    },
+    {
+      "age_months": 68.5,
+      "underweight_threshold": 13.7606,
+      "overweight_threshold": 16.8643,
+      "obesity_threshold": 20.4947
+    },
+    {
+      "age_months": 69.5,
+      "underweight_threshold": 13.7536,
+      "overweight_threshold": 16.8818,
+      "obesity_threshold": 20.5657
+    },
+    {
+      "age_months": 70.5,
+      "underweight_threshold": 13.7472,
+      "overweight_threshold": 16.9009,
+      "obesity_threshold": 20.6387
+    },
+    {
+      "age_months": 71.5,
+      "underweight_threshold": 13.7414,
+      "overweight_threshold": 16.9215,
+      "obesity_threshold": 20.7134
+    },
+    {
+      "age_months": 72.5,
+      "underweight_threshold": 13.7362,
+      "overweight_threshold": 16.9436,
+      "obesity_threshold": 20.7899
+    },
+    {
+      "age_months": 73.5,
+      "underweight_threshold": 13.7316,
+      "overweight_threshold": 16.9672,
+      "obesity_threshold": 20.8681
+    },
+    {
+      "age_months": 74.5,
+      "underweight_threshold": 13.7276,
+      "overweight_threshold": 16.9923,
+      "obesity_threshold": 20.948
+    },
+    {
+      "age_months": 75.5,
+      "underweight_threshold": 13.7242,
+      "overweight_threshold": 17.0187,
+      "obesity_threshold": 21.0295
+    },
+    {
+      "age_months": 76.5,
+      "underweight_threshold": 13.7215,
+      "overweight_threshold": 17.0466,
+      "obesity_threshold": 21.1126
+    },
+    {
+      "age_months": 77.5,
+      "underweight_threshold": 13.7193,
+      "overweight_threshold": 17.0758,
+      "obesity_threshold": 21.1972
+    },
+    {
+      "age_months": 78.5,
+      "underweight_threshold": 13.7177,
+      "overweight_threshold": 17.1064,
+      "obesity_threshold": 21.2832
+    },
+    {
+      "age_months": 79.5,
+      "underweight_threshold": 13.7167,
+      "overweight_threshold": 17.1383,
+      "obesity_threshold": 21.3706
+    },
+    {
+      "age_months": 80.5,
+      "underweight_threshold": 13.7164,
+      "overweight_threshold": 17.1714,
+      "obesity_threshold": 21.4594
+    },
+    {
+      "age_months": 81.5,
+      "underweight_threshold": 13.7166,
+      "overweight_threshold": 17.2059,
+      "obesity_threshold": 21.5495
+    },
+    {
+      "age_months": 82.5,
+      "underweight_threshold": 13.7175,
+      "overweight_threshold": 17.2416,
+      "obesity_threshold": 21.6409
+    },
+    {
+      "age_months": 83.5,
+      "underweight_threshold": 13.719,
+      "overweight_threshold": 17.2785,
+      "obesity_threshold": 21.7335
+    },
+    {
+      "age_months": 84.5,
+      "underweight_threshold": 13.7211,
+      "overweight_threshold": 17.3166,
+      "obesity_threshold": 21.8273
+    },
+    {
+      "age_months": 85.5,
+      "underweight_threshold": 13.7239,
+      "overweight_threshold": 17.3558,
+      "obesity_threshold": 21.9222
+    },
+    {
+      "age_months": 86.5,
+      "underweight_threshold": 13.7272,
+      "overweight_threshold": 17.3962,
+      "obesity_threshold": 22.0182
+    },
+    {
+      "age_months": 87.5,
+      "underweight_threshold": 13.7312,
+      "overweight_threshold": 17.4376,
+      "obesity_threshold": 22.1152
+    },
+    {
+      "age_months": 88.5,
+      "underweight_threshold": 13.7359,
+      "overweight_threshold": 17.4802,
+      "obesity_threshold": 22.2133
+    },
+    {
+      "age_months": 89.5,
+      "underweight_threshold": 13.7411,
+      "overweight_threshold": 17.5238,
+      "obesity_threshold": 22.3123
+    },
+    {
+      "age_months": 90.5,
+      "underweight_threshold": 13.747,
+      "overweight_threshold": 17.5684,
+      "obesity_threshold": 22.4122
+    },
+    {
+      "age_months": 91.5,
+      "underweight_threshold": 13.7536,
+      "overweight_threshold": 17.614,
+      "obesity_threshold": 22.513
+    },
+    {
+      "age_months": 92.5,
+      "underweight_threshold": 13.7607,
+      "overweight_threshold": 17.6606,
+      "obesity_threshold": 22.6146
+    },
+    {
+      "age_months": 93.5,
+      "underweight_threshold": 13.7685,
+      "overweight_threshold": 17.7082,
+      "obesity_threshold": 22.717
+    },
+    {
+      "age_months": 94.5,
+      "underweight_threshold": 13.777,
+      "overweight_threshold": 17.7566,
+      "obesity_threshold": 22.8201
+    },
+    {
+      "age_months": 95.5,
+      "underweight_threshold": 13.786,
+      "overweight_threshold": 17.806,
+      "obesity_threshold": 22.924
+    },
+    {
+      "age_months": 96.5,
+      "underweight_threshold": 13.7957,
+      "overweight_threshold": 17.8562,
+      "obesity_threshold": 23.0285
+    },
+    {
+      "age_months": 97.5,
+      "underweight_threshold": 13.8061,
+      "overweight_threshold": 17.9073,
+      "obesity_threshold": 23.1337
+    },
+    {
+      "age_months": 98.5,
+      "underweight_threshold": 13.8171,
+      "overweight_threshold": 17.9592,
+      "obesity_threshold": 23.2394
+    },
+    {
+      "age_months": 99.5,
+      "underweight_threshold": 13.8287,
+      "overweight_threshold": 18.0119,
+      "obesity_threshold": 23.3457
+    },
+    {
+      "age_months": 100.5,
+      "underweight_threshold": 13.841,
+      "overweight_threshold": 18.0653,
+      "obesity_threshold": 23.4526
+    },
+    {
+      "age_months": 101.5,
+      "underweight_threshold": 13.8539,
+      "overweight_threshold": 18.1195,
+      "obesity_threshold": 23.5599
+    },
+    {
+      "age_months": 102.5,
+      "underweight_threshold": 13.8675,
+      "overweight_threshold": 18.1745,
+      "obesity_threshold": 23.6676
+    },
+    {
+      "age_months": 103.5,
+      "underweight_threshold": 13.8817,
+      "overweight_threshold": 18.2301,
+      "obesity_threshold": 23.7758
+    },
+    {
+      "age_months": 104.5,
+      "underweight_threshold": 13.8965,
+      "overweight_threshold": 18.2864,
+      "obesity_threshold": 23.8844
+    },
+    {
+      "age_months": 105.5,
+      "underweight_threshold": 13.9119,
+      "overweight_threshold": 18.3434,
+      "obesity_threshold": 23.9932
+    },
+    {
+      "age_months": 106.5,
+      "underweight_threshold": 13.928,
+      "overweight_threshold": 18.401,
+      "obesity_threshold": 24.1024
+    },
+    {
+      "age_months": 107.5,
+      "underweight_threshold": 13.9448,
+      "overweight_threshold": 18.4592,
+      "obesity_threshold": 24.2119
+    },
+    {
+      "age_months": 108.5,
+      "underweight_threshold": 13.9621,
+      "overweight_threshold": 18.518,
+      "obesity_threshold": 24.3216
+    },
+    {
+      "age_months": 109.5,
+      "underweight_threshold": 13.9801,
+      "overweight_threshold": 18.5774,
+      "obesity_threshold": 24.4315
+    },
+    {
+      "age_months": 110.5,
+      "underweight_threshold": 13.9987,
+      "overweight_threshold": 18.6373,
+      "obesity_threshold": 24.5415
+    },
+    {
+      "age_months": 111.5,
+      "underweight_threshold": 14.0179,
+      "overweight_threshold": 18.6978,
+      "obesity_threshold": 24.6518
+    },
+    {
+      "age_months": 112.5,
+      "underweight_threshold": 14.0378,
+      "overweight_threshold": 18.7588,
+      "obesity_threshold": 24.7621
+    },
+    {
+      "age_months": 113.5,
+      "underweight_threshold": 14.0583,
+      "overweight_threshold": 18.8202,
+      "obesity_threshold": 24.8725
+    },
+    {
+      "age_months": 114.5,
+      "underweight_threshold": 14.0794,
+      "overweight_threshold": 18.8822,
+      "obesity_threshold": 24.9829
+    },
+    {
+      "age_months": 115.5,
+      "underweight_threshold": 14.1011,
+      "overweight_threshold": 18.9446,
+      "obesity_threshold": 25.0934
+    },
+    {
+      "age_months": 116.5,
+      "underweight_threshold": 14.1234,
+      "overweight_threshold": 19.0074,
+      "obesity_threshold": 25.2039
+    },
+    {
+      "age_months": 117.5,
+      "underweight_threshold": 14.1463,
+      "overweight_threshold": 19.0706,
+      "obesity_threshold": 25.3143
+    },
+    {
+      "age_months": 118.5,
+      "underweight_threshold": 14.1698,
+      "overweight_threshold": 19.1342,
+      "obesity_threshold": 25.4247
+    },
+    {
+      "age_months": 119.5,
+      "underweight_threshold": 14.1939,
+      "overweight_threshold": 19.1982,
+      "obesity_threshold": 25.535
+    },
+    {
+      "age_months": 120.5,
+      "underweight_threshold": 14.2187,
+      "overweight_threshold": 19.2626,
+      "obesity_threshold": 25.6452
+    },
+    {
+      "age_months": 121.5,
+      "underweight_threshold": 14.244,
+      "overweight_threshold": 19.3273,
+      "obesity_threshold": 25.7552
+    },
+    {
+      "age_months": 122.5,
+      "underweight_threshold": 14.2699,
+      "overweight_threshold": 19.3923,
+      "obesity_threshold": 25.8651
+    },
+    {
+      "age_months": 123.5,
+      "underweight_threshold": 14.2963,
+      "overweight_threshold": 19.4577,
+      "obesity_threshold": 25.9748
+    },
+    {
+      "age_months": 124.5,
+      "underweight_threshold": 14.3234,
+      "overweight_threshold": 19.5233,
+      "obesity_threshold": 26.0842
+    },
+    {
+      "age_months": 125.5,
+      "underweight_threshold": 14.351,
+      "overweight_threshold": 19.5892,
+      "obesity_threshold": 26.1934
+    },
+    {
+      "age_months": 126.5,
+      "underweight_threshold": 14.3792,
+      "overweight_threshold": 19.6554,
+      "obesity_threshold": 26.3024
+    },
+    {
+      "age_months": 127.5,
+      "underweight_threshold": 14.408,
+      "overweight_threshold": 19.7218,
+      "obesity_threshold": 26.4111
+    },
+    {
+      "age_months": 128.5,
+      "underweight_threshold": 14.4373,
+      "overweight_threshold": 19.7885,
+      "obesity_threshold": 26.5195
+    },
+    {
+      "age_months": 129.5,
+      "underweight_threshold": 14.4671,
+      "overweight_threshold": 19.8553,
+      "obesity_threshold": 26.6275
+    },
+    {
+      "age_months": 130.5,
+      "underweight_threshold": 14.4976,
+      "overweight_threshold": 19.9224,
+      "obesity_threshold": 26.7352
+    },
+    {
+      "age_months": 131.5,
+      "underweight_threshold": 14.5285,
+      "overweight_threshold": 19.9897,
+      "obesity_threshold": 26.8426
+    },
+    {
+      "age_months": 132.5,
+      "underweight_threshold": 14.56,
+      "overweight_threshold": 20.0571,
+      "obesity_threshold": 26.9495
+    },
+    {
+      "age_months": 133.5,
+      "underweight_threshold": 14.592,
+      "overweight_threshold": 20.1246,
+      "obesity_threshold": 27.0561
+    },
+    {
+      "age_months": 134.5,
+      "underweight_threshold": 14.6246,
+      "overweight_threshold": 20.1924,
+      "obesity_threshold": 27.1622
+    },
+    {
+      "age_months": 135.5,
+      "underweight_threshold": 14.6576,
+      "overweight_threshold": 20.2602,
+      "obesity_threshold": 27.2679
+    },
+    {
+      "age_months": 136.5,
+      "underweight_threshold": 14.6912,
+      "overweight_threshold": 20.3282,
+      "obesity_threshold": 27.3732
+    },
+    {
+      "age_months": 137.5,
+      "underweight_threshold": 14.7253,
+      "overweight_threshold": 20.3963,
+      "obesity_threshold": 27.478
+    },
+    {
+      "age_months": 138.5,
+      "underweight_threshold": 14.7599,
+      "overweight_threshold": 20.4644,
+      "obesity_threshold": 27.5822
+    },
+    {
+      "age_months": 139.5,
+      "underweight_threshold": 14.795,
+      "overweight_threshold": 20.5327,
+      "obesity_threshold": 27.686
+    },
+    {
+      "age_months": 140.5,
+      "underweight_threshold": 14.8305,
+      "overweight_threshold": 20.601,
+      "obesity_threshold": 27.7893
+    },
+    {
+      "age_months": 141.5,
+      "underweight_threshold": 14.8666,
+      "overweight_threshold": 20.6694,
+      "obesity_threshold": 27.8921
+    },
+    {
+      "age_months": 142.5,
+      "underweight_threshold": 14.9031,
+      "overweight_threshold": 20.7378,
+      "obesity_threshold": 27.9943
+    },
+    {
+      "age_months": 143.5,
+      "underweight_threshold": 14.94,
+      "overweight_threshold": 20.8063,
+      "obesity_threshold": 28.096
+    },
+    {
+      "age_months": 144.5,
+      "underweight_threshold": 14.9774,
+      "overweight_threshold": 20.8748,
+      "obesity_threshold": 28.1971
+    },
+    {
+      "age_months": 145.5,
+      "underweight_threshold": 15.0153,
+      "overweight_threshold": 20.9433,
+      "obesity_threshold": 28.2976
+    },
+    {
+      "age_months": 146.5,
+      "underweight_threshold": 15.0536,
+      "overweight_threshold": 21.0118,
+      "obesity_threshold": 28.3975
+    },
+    {
+      "age_months": 147.5,
+      "underweight_threshold": 15.0924,
+      "overweight_threshold": 21.0803,
+      "obesity_threshold": 28.4969
+    },
+    {
+      "age_months": 148.5,
+      "underweight_threshold": 15.1315,
+      "overweight_threshold": 21.1487,
+      "obesity_threshold": 28.5956
+    },
+    {
+      "age_months": 149.5,
+      "underweight_threshold": 15.1711,
+      "overweight_threshold": 21.2172,
+      "obesity_threshold": 28.6937
+    },
+    {
+      "age_months": 150.5,
+      "underweight_threshold": 15.2111,
+      "overweight_threshold": 21.2856,
+      "obesity_threshold": 28.7913
+    },
+    {
+      "age_months": 151.5,
+      "underweight_threshold": 15.2515,
+      "overweight_threshold": 21.354,
+      "obesity_threshold": 28.8881
+    },
+    {
+      "age_months": 152.5,
+      "underweight_threshold": 15.2923,
+      "overweight_threshold": 21.4223,
+      "obesity_threshold": 28.9844
+    },
+    {
+      "age_months": 153.5,
+      "underweight_threshold": 15.3335,
+      "overweight_threshold": 21.4906,
+      "obesity_threshold": 29.08
+    },
+    {
+      "age_months": 154.5,
+      "underweight_threshold": 15.375,
+      "overweight_threshold": 21.5588,
+      "obesity_threshold": 29.175
+    },
+    {
+      "age_months": 155.5,
+      "underweight_threshold": 15.4169,
+      "overweight_threshold": 21.6269,
+      "obesity_threshold": 29.2693
+    },
+    {
+      "age_months": 156.5,
+      "underweight_threshold": 15.4592,
+      "overweight_threshold": 21.695,
+      "obesity_threshold": 29.363
+    },
+    {
+      "age_months": 157.5,
+      "underweight_threshold": 15.5018,
+      "overweight_threshold": 21.7629,
+      "obesity_threshold": 29.456
+    },
+    {
+      "age_months": 158.5,
+      "underweight_threshold": 15.5447,
+      "overweight_threshold": 21.8308,
+      "obesity_threshold": 29.5483
+    },
+    {
+      "age_months": 159.5,
+      "underweight_threshold": 15.588,
+      "overweight_threshold": 21.8985,
+      "obesity_threshold": 29.64
+    },
+    {
+      "age_months": 160.5,
+      "underweight_threshold": 15.6316,
+      "overweight_threshold": 21.9662,
+      "obesity_threshold": 29.7311
+    },
+    {
+      "age_months": 161.5,
+      "underweight_threshold": 15.6755,
+      "overweight_threshold": 22.0337,
+      "obesity_threshold": 29.8214
+    },
+    {
+      "age_months": 162.5,
+      "underweight_threshold": 15.7197,
+      "overweight_threshold": 22.1011,
+      "obesity_threshold": 29.9112
+    },
+    {
+      "age_months": 163.5,
+      "underweight_threshold": 15.7642,
+      "overweight_threshold": 22.1684,
+      "obesity_threshold": 30.0002
+    },
+    {
+      "age_months": 164.5,
+      "underweight_threshold": 15.809,
+      "overweight_threshold": 22.2356,
+      "obesity_threshold": 30.0886
+    },
+    {
+      "age_months": 165.5,
+      "underweight_threshold": 15.854,
+      "overweight_threshold": 22.3026,
+      "obesity_threshold": 30.1763
+    },
+    {
+      "age_months": 166.5,
+      "underweight_threshold": 15.8993,
+      "overweight_threshold": 22.3694,
+      "obesity_threshold": 30.2634
+    },
+    {
+      "age_months": 167.5,
+      "underweight_threshold": 15.9449,
+      "overweight_threshold": 22.4362,
+      "obesity_threshold": 30.3498
+    },
+    {
+      "age_months": 168.5,
+      "underweight_threshold": 15.9907,
+      "overweight_threshold": 22.5027,
+      "obesity_threshold": 30.4356
+    },
+    {
+      "age_months": 169.5,
+      "underweight_threshold": 16.0367,
+      "overweight_threshold": 22.5691,
+      "obesity_threshold": 30.5207
+    },
+    {
+      "age_months": 170.5,
+      "underweight_threshold": 16.0829,
+      "overweight_threshold": 22.6354,
+      "obesity_threshold": 30.6052
+    },
+    {
+      "age_months": 171.5,
+      "underweight_threshold": 16.1293,
+      "overweight_threshold": 22.7015,
+      "obesity_threshold": 30.689
+    },
+    {
+      "age_months": 172.5,
+      "underweight_threshold": 16.176,
+      "overweight_threshold": 22.7674,
+      "obesity_threshold": 30.7722
+    },
+    {
+      "age_months": 173.5,
+      "underweight_threshold": 16.2228,
+      "overweight_threshold": 22.8331,
+      "obesity_threshold": 30.8548
+    },
+    {
+      "age_months": 174.5,
+      "underweight_threshold": 16.2698,
+      "overweight_threshold": 22.8987,
+      "obesity_threshold": 30.9368
+    },
+    {
+      "age_months": 175.5,
+      "underweight_threshold": 16.317,
+      "overweight_threshold": 22.9641,
+      "obesity_threshold": 31.0182
+    },
+    {
+      "age_months": 176.5,
+      "underweight_threshold": 16.3643,
+      "overweight_threshold": 23.0293,
+      "obesity_threshold": 31.0989
+    },
+    {
+      "age_months": 177.5,
+      "underweight_threshold": 16.4117,
+      "overweight_threshold": 23.0944,
+      "obesity_threshold": 31.1791
+    },
+    {
+      "age_months": 178.5,
+      "underweight_threshold": 16.4593,
+      "overweight_threshold": 23.1592,
+      "obesity_threshold": 31.2587
+    },
+    {
+      "age_months": 179.5,
+      "underweight_threshold": 16.507,
+      "overweight_threshold": 23.2239,
+      "obesity_threshold": 31.3378
+    },
+    {
+      "age_months": 180.5,
+      "underweight_threshold": 16.5548,
+      "overweight_threshold": 23.2884,
+      "obesity_threshold": 31.4163
+    },
+    {
+      "age_months": 181.5,
+      "underweight_threshold": 16.6027,
+      "overweight_threshold": 23.3527,
+      "obesity_threshold": 31.4942
+    },
+    {
+      "age_months": 182.5,
+      "underweight_threshold": 16.6507,
+      "overweight_threshold": 23.4168,
+      "obesity_threshold": 31.5717
+    },
+    {
+      "age_months": 183.5,
+      "underweight_threshold": 16.6988,
+      "overweight_threshold": 23.4807,
+      "obesity_threshold": 31.6486
+    },
+    {
+      "age_months": 184.5,
+      "underweight_threshold": 16.7469,
+      "overweight_threshold": 23.5444,
+      "obesity_threshold": 31.725
+    },
+    {
+      "age_months": 185.5,
+      "underweight_threshold": 16.795,
+      "overweight_threshold": 23.6079,
+      "obesity_threshold": 31.8009
+    },
+    {
+      "age_months": 186.5,
+      "underweight_threshold": 16.8432,
+      "overweight_threshold": 23.6713,
+      "obesity_threshold": 31.8764
+    },
+    {
+      "age_months": 187.5,
+      "underweight_threshold": 16.8915,
+      "overweight_threshold": 23.7344,
+      "obesity_threshold": 31.9514
+    },
+    {
+      "age_months": 188.5,
+      "underweight_threshold": 16.9397,
+      "overweight_threshold": 23.7974,
+      "obesity_threshold": 32.0259
+    },
+    {
+      "age_months": 189.5,
+      "underweight_threshold": 16.9879,
+      "overweight_threshold": 23.8602,
+      "obesity_threshold": 32.1001
+    },
+    {
+      "age_months": 190.5,
+      "underweight_threshold": 17.0361,
+      "overweight_threshold": 23.9227,
+      "obesity_threshold": 32.1738
+    },
+    {
+      "age_months": 191.5,
+      "underweight_threshold": 17.0843,
+      "overweight_threshold": 23.9851,
+      "obesity_threshold": 32.2472
+    },
+    {
+      "age_months": 192.5,
+      "underweight_threshold": 17.1325,
+      "overweight_threshold": 24.0473,
+      "obesity_threshold": 32.3202
+    },
+    {
+      "age_months": 193.5,
+      "underweight_threshold": 17.1806,
+      "overweight_threshold": 24.1093,
+      "obesity_threshold": 32.3929
+    },
+    {
+      "age_months": 194.5,
+      "underweight_threshold": 17.2287,
+      "overweight_threshold": 24.1712,
+      "obesity_threshold": 32.4652
+    },
+    {
+      "age_months": 195.5,
+      "underweight_threshold": 17.2766,
+      "overweight_threshold": 24.2328,
+      "obesity_threshold": 32.5373
+    },
+    {
+      "age_months": 196.5,
+      "underweight_threshold": 17.3245,
+      "overweight_threshold": 24.2943,
+      "obesity_threshold": 32.609
+    },
+    {
+      "age_months": 197.5,
+      "underweight_threshold": 17.3723,
+      "overweight_threshold": 24.3556,
+      "obesity_threshold": 32.6806
+    },
+    {
+      "age_months": 198.5,
+      "underweight_threshold": 17.42,
+      "overweight_threshold": 24.4167,
+      "obesity_threshold": 32.7519
+    },
+    {
+      "age_months": 199.5,
+      "underweight_threshold": 17.4675,
+      "overweight_threshold": 24.4776,
+      "obesity_threshold": 32.823
+    },
+    {
+      "age_months": 200.5,
+      "underweight_threshold": 17.5149,
+      "overweight_threshold": 24.5384,
+      "obesity_threshold": 32.8939
+    },
+    {
+      "age_months": 201.5,
+      "underweight_threshold": 17.5621,
+      "overweight_threshold": 24.599,
+      "obesity_threshold": 32.9646
+    },
+    {
+      "age_months": 202.5,
+      "underweight_threshold": 17.6092,
+      "overweight_threshold": 24.6594,
+      "obesity_threshold": 33.0353
+    },
+    {
+      "age_months": 203.5,
+      "underweight_threshold": 17.6561,
+      "overweight_threshold": 24.7197,
+      "obesity_threshold": 33.1058
+    },
+    {
+      "age_months": 204.5,
+      "underweight_threshold": 17.7028,
+      "overweight_threshold": 24.7798,
+      "obesity_threshold": 33.1763
+    },
+    {
+      "age_months": 205.5,
+      "underweight_threshold": 17.7494,
+      "overweight_threshold": 24.8398,
+      "obesity_threshold": 33.2467
+    },
+    {
+      "age_months": 206.5,
+      "underweight_threshold": 17.7956,
+      "overweight_threshold": 24.8997,
+      "obesity_threshold": 33.3172
+    },
+    {
+      "age_months": 207.5,
+      "underweight_threshold": 17.8417,
+      "overweight_threshold": 24.9593,
+      "obesity_threshold": 33.3876
+    },
+    {
+      "age_months": 208.5,
+      "underweight_threshold": 17.8875,
+      "overweight_threshold": 25.0189,
+      "obesity_threshold": 33.4581
+    },
+    {
+      "age_months": 209.5,
+      "underweight_threshold": 17.9331,
+      "overweight_threshold": 25.0783,
+      "obesity_threshold": 33.5287
+    },
+    {
+      "age_months": 210.5,
+      "underweight_threshold": 17.9783,
+      "overweight_threshold": 25.1376,
+      "obesity_threshold": 33.5994
+    },
+    {
+      "age_months": 211.5,
+      "underweight_threshold": 18.0233,
+      "overweight_threshold": 25.1968,
+      "obesity_threshold": 33.6702
+    },
+    {
+      "age_months": 212.5,
+      "underweight_threshold": 18.068,
+      "overweight_threshold": 25.2559,
+      "obesity_threshold": 33.7412
+    },
+    {
+      "age_months": 213.5,
+      "underweight_threshold": 18.1124,
+      "overweight_threshold": 25.3148,
+      "obesity_threshold": 33.8125
+    },
+    {
+      "age_months": 214.5,
+      "underweight_threshold": 18.1564,
+      "overweight_threshold": 25.3737,
+      "obesity_threshold": 33.884
+    },
+    {
+      "age_months": 215.5,
+      "underweight_threshold": 18.2001,
+      "overweight_threshold": 25.4324,
+      "obesity_threshold": 33.9557
+    },
+    {
+      "age_months": 216.5,
+      "underweight_threshold": 18.2435,
+      "overweight_threshold": 25.4911,
+      "obesity_threshold": 34.0278
+    },
+    {
+      "age_months": 217.5,
+      "underweight_threshold": 18.2865,
+      "overweight_threshold": 25.5497,
+      "obesity_threshold": 34.1003
+    },
+    {
+      "age_months": 218.5,
+      "underweight_threshold": 18.329,
+      "overweight_threshold": 25.6083,
+      "obesity_threshold": 34.1731
+    },
+    {
+      "age_months": 219.5,
+      "underweight_threshold": 18.3712,
+      "overweight_threshold": 25.6667,
+      "obesity_threshold": 34.2464
+    },
+    {
+      "age_months": 220.5,
+      "underweight_threshold": 18.413,
+      "overweight_threshold": 25.7252,
+      "obesity_threshold": 34.3202
+    },
+    {
+      "age_months": 221.5,
+      "underweight_threshold": 18.4543,
+      "overweight_threshold": 25.7835,
+      "obesity_threshold": 34.3944
+    },
+    {
+      "age_months": 222.5,
+      "underweight_threshold": 18.4952,
+      "overweight_threshold": 25.8419,
+      "obesity_threshold": 34.4693
+    },
+    {
+      "age_months": 223.5,
+      "underweight_threshold": 18.5356,
+      "overweight_threshold": 25.9002,
+      "obesity_threshold": 34.5447
+    },
+    {
+      "age_months": 224.5,
+      "underweight_threshold": 18.5756,
+      "overweight_threshold": 25.9585,
+      "obesity_threshold": 34.6207
+    },
+    {
+      "age_months": 225.5,
+      "underweight_threshold": 18.615,
+      "overweight_threshold": 26.0168,
+      "obesity_threshold": 34.6974
+    },
+    {
+      "age_months": 226.5,
+      "underweight_threshold": 18.6539,
+      "overweight_threshold": 26.0751,
+      "obesity_threshold": 34.7749
+    },
+    {
+      "age_months": 227.5,
+      "underweight_threshold": 18.6923,
+      "overweight_threshold": 26.1335,
+      "obesity_threshold": 34.853
+    },
+    {
+      "age_months": 228.5,
+      "underweight_threshold": 18.7302,
+      "overweight_threshold": 26.1918,
+      "obesity_threshold": 34.932
+    },
+    {
+      "age_months": 229.5,
+      "underweight_threshold": 18.7675,
+      "overweight_threshold": 26.2502,
+      "obesity_threshold": 35.0119
+    },
+    {
+      "age_months": 230.5,
+      "underweight_threshold": 18.8042,
+      "overweight_threshold": 26.3087,
+      "obesity_threshold": 35.0926
+    },
+    {
+      "age_months": 231.5,
+      "underweight_threshold": 18.8403,
+      "overweight_threshold": 26.3672,
+      "obesity_threshold": 35.1743
+    },
+    {
+      "age_months": 232.5,
+      "underweight_threshold": 18.8758,
+      "overweight_threshold": 26.4258,
+      "obesity_threshold": 35.2569
+    },
+    {
+      "age_months": 233.5,
+      "underweight_threshold": 18.9107,
+      "overweight_threshold": 26.4845,
+      "obesity_threshold": 35.3406
+    },
+    {
+      "age_months": 234.5,
+      "underweight_threshold": 18.9449,
+      "overweight_threshold": 26.5433,
+      "obesity_threshold": 35.4253
+    },
+    {
+      "age_months": 235.5,
+      "underweight_threshold": 18.9784,
+      "overweight_threshold": 26.6023,
+      "obesity_threshold": 35.5112
+    },
+    {
+      "age_months": 236.5,
+      "underweight_threshold": 19.0113,
+      "overweight_threshold": 26.6613,
+      "obesity_threshold": 35.5982
+    },
+    {
+      "age_months": 237.5,
+      "underweight_threshold": 19.0434,
+      "overweight_threshold": 26.7205,
+      "obesity_threshold": 35.6864
+    },
+    {
+      "age_months": 238.5,
+      "underweight_threshold": 19.0748,
+      "overweight_threshold": 26.7799,
+      "obesity_threshold": 35.7759
+    },
+    {
+      "age_months": 239.5,
+      "underweight_threshold": 19.1055,
+      "overweight_threshold": 26.8395,
+      "obesity_threshold": 35.8667
+    },
+    {
+      "age_months": 240.0,
+      "underweight_threshold": 19.1206,
+      "overweight_threshold": 26.8693,
+      "obesity_threshold": 35.9126
+    },
+    {
+      "age_months": 240.5,
+      "underweight_threshold": 19.1354,
+      "overweight_threshold": 26.8992,
+      "obesity_threshold": 35.9588
+    }
+  ],
+  "2": [
+    {
+      "age_months": 24.0,
+      "underweight_threshold": 14.3979,
+      "overweight_threshold": 17.9569,
+      "obesity_threshold": 20.2802
+    },
+    {
+      "age_months": 24.5,
+      "underweight_threshold": 14.3802,
+      "overweight_threshold": 17.9127,
+      "obesity_threshold": 20.2436
+    },
+    {
+      "age_months": 25.5,
+      "underweight_threshold": 14.3453,
+      "overweight_threshold": 17.827,
+      "obesity_threshold": 20.1742
+    },
+    {
+      "age_months": 26.5,
+      "underweight_threshold": 14.311,
+      "overweight_threshold": 17.7448,
+      "obesity_threshold": 20.1096
+    },
+    {
+      "age_months": 27.5,
+      "underweight_threshold": 14.2773,
+      "overweight_threshold": 17.6661,
+      "obesity_threshold": 20.0498
+    },
+    {
+      "age_months": 28.5,
+      "underweight_threshold": 14.2442,
+      "overweight_threshold": 17.5909,
+      "obesity_threshold": 19.9946
+    },
+    {
+      "age_months": 29.5,
+      "underweight_threshold": 14.2117,
+      "overweight_threshold": 17.5191,
+      "obesity_threshold": 19.9441
+    },
+    {
+      "age_months": 30.5,
+      "underweight_threshold": 14.1799,
+      "overweight_threshold": 17.4506,
+      "obesity_threshold": 19.8982
+    },
+    {
+      "age_months": 31.5,
+      "underweight_threshold": 14.1487,
+      "overweight_threshold": 17.3855,
+      "obesity_threshold": 19.8567
+    },
+    {
+      "age_months": 32.5,
+      "underweight_threshold": 14.1181,
+      "overweight_threshold": 17.3236,
+      "obesity_threshold": 19.8196
+    },
+    {
+      "age_months": 33.5,
+      "underweight_threshold": 14.0882,
+      "overweight_threshold": 17.2648,
+      "obesity_threshold": 19.7867
+    },
+    {
+      "age_months": 34.5,
+      "underweight_threshold": 14.0589,
+      "overweight_threshold": 17.2093,
+      "obesity_threshold": 19.7581
+    },
+    {
+      "age_months": 35.5,
+      "underweight_threshold": 14.0302,
+      "overweight_threshold": 17.1568,
+      "obesity_threshold": 19.7337
+    },
+    {
+      "age_months": 36.5,
+      "underweight_threshold": 14.0021,
+      "overweight_threshold": 17.1074,
+      "obesity_threshold": 19.7133
+    },
+    {
+      "age_months": 37.5,
+      "underweight_threshold": 13.9747,
+      "overweight_threshold": 17.061,
+      "obesity_threshold": 19.6969
+    },
+    {
+      "age_months": 38.5,
+      "underweight_threshold": 13.9479,
+      "overweight_threshold": 17.0175,
+      "obesity_threshold": 19.6844
+    },
+    {
+      "age_months": 39.5,
+      "underweight_threshold": 13.9217,
+      "overweight_threshold": 16.977,
+      "obesity_threshold": 19.6758
+    },
+    {
+      "age_months": 40.5,
+      "underweight_threshold": 13.8961,
+      "overweight_threshold": 16.9394,
+      "obesity_threshold": 19.6709
+    },
+    {
+      "age_months": 41.5,
+      "underweight_threshold": 13.8712,
+      "overweight_threshold": 16.9046,
+      "obesity_threshold": 19.6697
+    },
+    {
+      "age_months": 42.5,
+      "underweight_threshold": 13.847,
+      "overweight_threshold": 16.8726,
+      "obesity_threshold": 19.6721
+    },
+    {
+      "age_months": 43.5,
+      "underweight_threshold": 13.8233,
+      "overweight_threshold": 16.8433,
+      "obesity_threshold": 19.6781
+    },
+    {
+      "age_months": 44.5,
+      "underweight_threshold": 13.8003,
+      "overweight_threshold": 16.8168,
+      "obesity_threshold": 19.6875
+    },
+    {
+      "age_months": 45.5,
+      "underweight_threshold": 13.778,
+      "overweight_threshold": 16.793,
+      "obesity_threshold": 19.7003
+    },
+    {
+      "age_months": 46.5,
+      "underweight_threshold": 13.7562,
+      "overweight_threshold": 16.7718,
+      "obesity_threshold": 19.7165
+    },
+    {
+      "age_months": 47.5,
+      "underweight_threshold": 13.7352,
+      "overweight_threshold": 16.7532,
+      "obesity_threshold": 19.7359
+    },
+    {
+      "age_months": 48.5,
+      "underweight_threshold": 13.7147,
+      "overweight_threshold": 16.7371,
+      "obesity_threshold": 19.7586
+    },
+    {
+      "age_months": 49.5,
+      "underweight_threshold": 13.6949,
+      "overweight_threshold": 16.7236,
+      "obesity_threshold": 19.7844
+    },
+    {
+      "age_months": 50.5,
+      "underweight_threshold": 13.6758,
+      "overweight_threshold": 16.7126,
+      "obesity_threshold": 19.8132
+    },
+    {
+      "age_months": 51.5,
+      "underweight_threshold": 13.6573,
+      "overweight_threshold": 16.704,
+      "obesity_threshold": 19.8451
+    },
+    {
+      "age_months": 52.5,
+      "underweight_threshold": 13.6395,
+      "overweight_threshold": 16.6978,
+      "obesity_threshold": 19.8799
+    },
+    {
+      "age_months": 53.5,
+      "underweight_threshold": 13.6223,
+      "overweight_threshold": 16.6939,
+      "obesity_threshold": 19.9176
+    },
+    {
+      "age_months": 54.5,
+      "underweight_threshold": 13.6058,
+      "overweight_threshold": 16.6924,
+      "obesity_threshold": 19.9581
+    },
+    {
+      "age_months": 55.5,
+      "underweight_threshold": 13.59,
+      "overweight_threshold": 16.6932,
+      "obesity_threshold": 20.0014
+    },
+    {
+      "age_months": 56.5,
+      "underweight_threshold": 13.5748,
+      "overweight_threshold": 16.6962,
+      "obesity_threshold": 20.0474
+    },
+    {
+      "age_months": 57.5,
+      "underweight_threshold": 13.5603,
+      "overweight_threshold": 16.7013,
+      "obesity_threshold": 20.096
+    },
+    {
+      "age_months": 58.5,
+      "underweight_threshold": 13.5465,
+      "overweight_threshold": 16.7087,
+      "obesity_threshold": 20.1473
+    },
+    {
+      "age_months": 59.5,
+      "underweight_threshold": 13.5334,
+      "overweight_threshold": 16.7182,
+      "obesity_threshold": 20.201
+    },
+    {
+      "age_months": 60.5,
+      "underweight_threshold": 13.5209,
+      "overweight_threshold": 16.7297,
+      "obesity_threshold": 20.2573
+    },
+    {
+      "age_months": 61.5,
+      "underweight_threshold": 13.5091,
+      "overweight_threshold": 16.7433,
+      "obesity_threshold": 20.316
+    },
+    {
+      "age_months": 62.5,
+      "underweight_threshold": 13.4981,
+      "overweight_threshold": 16.7588,
+      "obesity_threshold": 20.377
+    },
+    {
+      "age_months": 63.5,
+      "underweight_threshold": 13.4877,
+      "overweight_threshold": 16.7764,
+      "obesity_threshold": 20.4404
+    },
+    {
+      "age_months": 64.5,
+      "underweight_threshold": 13.478,
+      "overweight_threshold": 16.7958,
+      "obesity_threshold": 20.506
+    },
+    {
+      "age_months": 65.5,
+      "underweight_threshold": 13.469,
+      "overweight_threshold": 16.8171,
+      "obesity_threshold": 20.5738
+    },
+    {
+      "age_months": 66.5,
+      "underweight_threshold": 13.4608,
+      "overweight_threshold": 16.8403,
+      "obesity_threshold": 20.6438
+    },
+    {
+      "age_months": 67.5,
+      "underweight_threshold": 13.4532,
+      "overweight_threshold": 16.8652,
+      "obesity_threshold": 20.7159
+    },
+    {
+      "age_months": 68.5,
+      "underweight_threshold": 13.4463,
+      "overweight_threshold": 16.8919,
+      "obesity_threshold": 20.79
+    },
+    {
+      "age_months": 69.5,
+      "underweight_threshold": 13.4401,
+      "overweight_threshold": 16.9203,
+      "obesity_threshold": 20.8661
+    },
+    {
+      "age_months": 70.5,
+      "underweight_threshold": 13.4347,
+      "overweight_threshold": 16.9504,
+      "obesity_threshold": 20.9442
+    },
+    {
+      "age_months": 71.5,
+      "underweight_threshold": 13.4299,
+      "overweight_threshold": 16.9821,
+      "obesity_threshold": 21.0241
+    },
+    {
+      "age_months": 72.5,
+      "underweight_threshold": 13.4259,
+      "overweight_threshold": 17.0155,
+      "obesity_threshold": 21.1059
+    },
+    {
+      "age_months": 73.5,
+      "underweight_threshold": 13.4225,
+      "overweight_threshold": 17.0504,
+      "obesity_threshold": 21.1895
+    },
+    {
+      "age_months": 74.5,
+      "underweight_threshold": 13.4199,
+      "overweight_threshold": 17.0868,
+      "obesity_threshold": 21.2748
+    },
+    {
+      "age_months": 75.5,
+      "underweight_threshold": 13.418,
+      "overweight_threshold": 17.1248,
+      "obesity_threshold": 21.3618
+    },
+    {
+      "age_months": 76.5,
+      "underweight_threshold": 13.4168,
+      "overweight_threshold": 17.1641,
+      "obesity_threshold": 21.4504
+    },
+    {
+      "age_months": 77.5,
+      "underweight_threshold": 13.4163,
+      "overweight_threshold": 17.2049,
+      "obesity_threshold": 21.5406
+    },
+    {
+      "age_months": 78.5,
+      "underweight_threshold": 13.4165,
+      "overweight_threshold": 17.2471,
+      "obesity_threshold": 21.6324
+    },
+    {
+      "age_months": 79.5,
+      "underweight_threshold": 13.4175,
+      "overweight_threshold": 17.2906,
+      "obesity_threshold": 21.7257
+    },
+    {
+      "age_months": 80.5,
+      "underweight_threshold": 13.4191,
+      "overweight_threshold": 17.3355,
+      "obesity_threshold": 21.8203
+    },
+    {
+      "age_months": 81.5,
+      "underweight_threshold": 13.4215,
+      "overweight_threshold": 17.3816,
+      "obesity_threshold": 21.9164
+    },
+    {
+      "age_months": 82.5,
+      "underweight_threshold": 13.4245,
+      "overweight_threshold": 17.429,
+      "obesity_threshold": 22.0139
+    },
+    {
+      "age_months": 83.5,
+      "underweight_threshold": 13.4283,
+      "overweight_threshold": 17.4775,
+      "obesity_threshold": 22.1126
+    },
+    {
+      "age_months": 84.5,
+      "underweight_threshold": 13.4328,
+      "overweight_threshold": 17.5273,
+      "obesity_threshold": 22.2126
+    },
+    {
+      "age_months": 85.5,
+      "underweight_threshold": 13.4379,
+      "overweight_threshold": 17.5782,
+      "obesity_threshold": 22.3139
+    },
+    {
+      "age_months": 86.5,
+      "underweight_threshold": 13.4438,
+      "overweight_threshold": 17.6301,
+      "obesity_threshold": 22.4163
+    },
+    {
+      "age_months": 87.5,
+      "underweight_threshold": 13.4504,
+      "overweight_threshold": 17.6832,
+      "obesity_threshold": 22.5198
+    },
+    {
+      "age_months": 88.5,
+      "underweight_threshold": 13.4576,
+      "overweight_threshold": 17.7373,
+      "obesity_threshold": 22.6244
+    },
+    {
+      "age_months": 89.5,
+      "underweight_threshold": 13.4656,
+      "overweight_threshold": 17.7924,
+      "obesity_threshold": 22.73
+    },
+    {
+      "age_months": 90.5,
+      "underweight_threshold": 13.4743,
+      "overweight_threshold": 17.8485,
+      "obesity_threshold": 22.8366
+    },
+    {
+      "age_months": 91.5,
+      "underweight_threshold": 13.4836,
+      "overweight_threshold": 17.9055,
+      "obesity_threshold": 22.9442
+    },
+    {
+      "age_months": 92.5,
+      "underweight_threshold": 13.4936,
+      "overweight_threshold": 17.9635,
+      "obesity_threshold": 23.0527
+    },
+    {
+      "age_months": 93.5,
+      "underweight_threshold": 13.5043,
+      "overweight_threshold": 18.0223,
+      "obesity_threshold": 23.162
+    },
+    {
+      "age_months": 94.5,
+      "underweight_threshold": 13.5157,
+      "overweight_threshold": 18.082,
+      "obesity_threshold": 23.2722
+    },
+    {
+      "age_months": 95.5,
+      "underweight_threshold": 13.5278,
+      "overweight_threshold": 18.1425,
+      "obesity_threshold": 23.3832
+    },
+    {
+      "age_months": 96.5,
+      "underweight_threshold": 13.5405,
+      "overweight_threshold": 18.2038,
+      "obesity_threshold": 23.4949
+    },
+    {
+      "age_months": 97.5,
+      "underweight_threshold": 13.5539,
+      "overweight_threshold": 18.2659,
+      "obesity_threshold": 23.6073
+    },
+    {
+      "age_months": 98.5,
+      "underweight_threshold": 13.568,
+      "overweight_threshold": 18.3287,
+      "obesity_threshold": 23.7204
+    },
+    {
+      "age_months": 99.5,
+      "underweight_threshold": 13.5827,
+      "overweight_threshold": 18.3922,
+      "obesity_threshold": 23.8341
+    },
+    {
+      "age_months": 100.5,
+      "underweight_threshold": 13.5981,
+      "overweight_threshold": 18.4564,
+      "obesity_threshold": 23.9485
+    },
+    {
+      "age_months": 101.5,
+      "underweight_threshold": 13.6141,
+      "overweight_threshold": 18.5213,
+      "obesity_threshold": 24.0633
+    },
+    {
+      "age_months": 102.5,
+      "underweight_threshold": 13.6308,
+      "overweight_threshold": 18.5867,
+      "obesity_threshold": 24.1788
+    },
+    {
+      "age_months": 103.5,
+      "underweight_threshold": 13.6481,
+      "overweight_threshold": 18.6528,
+      "obesity_threshold": 24.2946
+    },
+    {
+      "age_months": 104.5,
+      "underweight_threshold": 13.666,
+      "overweight_threshold": 18.7194,
+      "obesity_threshold": 24.411
+    },
+    {
+      "age_months": 105.5,
+      "underweight_threshold": 13.6846,
+      "overweight_threshold": 18.7865,
+      "obesity_threshold": 24.5277
+    },
+    {
+      "age_months": 106.5,
+      "underweight_threshold": 13.7038,
+      "overweight_threshold": 18.8542,
+      "obesity_threshold": 24.6449
+    },
+    {
+      "age_months": 107.5,
+      "underweight_threshold": 13.7237,
+      "overweight_threshold": 18.9224,
+      "obesity_threshold": 24.7624
+    },
+    {
+      "age_months": 108.5,
+      "underweight_threshold": 13.7441,
+      "overweight_threshold": 18.991,
+      "obesity_threshold": 24.8802
+    },
+    {
+      "age_months": 109.5,
+      "underweight_threshold": 13.7652,
+      "overweight_threshold": 19.06,
+      "obesity_threshold": 24.9983
+    },
+    {
+      "age_months": 110.5,
+      "underweight_threshold": 13.7868,
+      "overweight_threshold": 19.1295,
+      "obesity_threshold": 25.1166
+    },
+    {
+      "age_months": 111.5,
+      "underweight_threshold": 13.8091,
+      "overweight_threshold": 19.1994,
+      "obesity_threshold": 25.2352
+    },
+    {
+      "age_months": 112.5,
+      "underweight_threshold": 13.832,
+      "overweight_threshold": 19.2696,
+      "obesity_threshold": 25.3539
+    },
+    {
+      "age_months": 113.5,
+      "underweight_threshold": 13.8554,
+      "overweight_threshold": 19.3401,
+      "obesity_threshold": 25.4728
+    },
+    {
+      "age_months": 114.5,
+      "underweight_threshold": 13.8794,
+      "overweight_threshold": 19.411,
+      "obesity_threshold": 25.5918
+    },
+    {
+      "age_months": 115.5,
+      "underweight_threshold": 13.904,
+      "overweight_threshold": 19.4821,
+      "obesity_threshold": 25.711
+    },
+    {
+      "age_months": 116.5,
+      "underweight_threshold": 13.9292,
+      "overweight_threshold": 19.5535,
+      "obesity_threshold": 25.8302
+    },
+    {
+      "age_months": 117.5,
+      "underweight_threshold": 13.9549,
+      "overweight_threshold": 19.6252,
+      "obesity_threshold": 25.9494
+    },
+    {
+      "age_months": 118.5,
+      "underweight_threshold": 13.9812,
+      "overweight_threshold": 19.697,
+      "obesity_threshold": 26.0687
+    },
+    {
+      "age_months": 119.5,
+      "underweight_threshold": 14.008,
+      "overweight_threshold": 19.7691,
+      "obesity_threshold": 26.1879
+    },
+    {
+      "age_months": 120.5,
+      "underweight_threshold": 14.0354,
+      "overweight_threshold": 19.8413,
+      "obesity_threshold": 26.3071
+    },
+    {
+      "age_months": 121.5,
+      "underweight_threshold": 14.0632,
+      "overweight_threshold": 19.9137,
+      "obesity_threshold": 26.4263
+    },
+    {
+      "age_months": 122.5,
+      "underweight_threshold": 14.0917,
+      "overweight_threshold": 19.9863,
+      "obesity_threshold": 26.5453
+    },
+    {
+      "age_months": 123.5,
+      "underweight_threshold": 14.1206,
+      "overweight_threshold": 20.0589,
+      "obesity_threshold": 26.6643
+    },
+    {
+      "age_months": 124.5,
+      "underweight_threshold": 14.15,
+      "overweight_threshold": 20.1316,
+      "obesity_threshold": 26.7831
+    },
+    {
+      "age_months": 125.5,
+      "underweight_threshold": 14.18,
+      "overweight_threshold": 20.2044,
+      "obesity_threshold": 26.9018
+    },
+    {
+      "age_months": 126.5,
+      "underweight_threshold": 14.2104,
+      "overweight_threshold": 20.2772,
+      "obesity_threshold": 27.0202
+    },
+    {
+      "age_months": 127.5,
+      "underweight_threshold": 14.2413,
+      "overweight_threshold": 20.3501,
+      "obesity_threshold": 27.1385
+    },
+    {
+      "age_months": 128.5,
+      "underweight_threshold": 14.2727,
+      "overweight_threshold": 20.423,
+      "obesity_threshold": 27.2565
+    },
+    {
+      "age_months": 129.5,
+      "underweight_threshold": 14.3046,
+      "overweight_threshold": 20.4959,
+      "obesity_threshold": 27.3743
+    },
+    {
+      "age_months": 130.5,
+      "underweight_threshold": 14.3369,
+      "overweight_threshold": 20.5687,
+      "obesity_threshold": 27.4918
+    },
+    {
+      "age_months": 131.5,
+      "underweight_threshold": 14.3697,
+      "overweight_threshold": 20.6415,
+      "obesity_threshold": 27.6091
+    },
+    {
+      "age_months": 132.5,
+      "underweight_threshold": 14.4029,
+      "overweight_threshold": 20.7142,
+      "obesity_threshold": 27.726
+    },
+    {
+      "age_months": 133.5,
+      "underweight_threshold": 14.4366,
+      "overweight_threshold": 20.7869,
+      "obesity_threshold": 27.8426
+    },
+    {
+      "age_months": 134.5,
+      "underweight_threshold": 14.4706,
+      "overweight_threshold": 20.8594,
+      "obesity_threshold": 27.9588
+    },
+    {
+      "age_months": 135.5,
+      "underweight_threshold": 14.5051,
+      "overweight_threshold": 20.9319,
+      "obesity_threshold": 28.0747
+    },
+    {
+      "age_months": 136.5,
+      "underweight_threshold": 14.54,
+      "overweight_threshold": 21.0042,
+      "obesity_threshold": 28.1902
+    },
+    {
+      "age_months": 137.5,
+      "underweight_threshold": 14.5753,
+      "overweight_threshold": 21.0763,
+      "obesity_threshold": 28.3053
+    },
+    {
+      "age_months": 138.5,
+      "underweight_threshold": 14.611,
+      "overweight_threshold": 21.1483,
+      "obesity_threshold": 28.42
+    },
+    {
+      "age_months": 139.5,
+      "underweight_threshold": 14.647,
+      "overweight_threshold": 21.2201,
+      "obesity_threshold": 28.5342
+    },
+    {
+      "age_months": 140.5,
+      "underweight_threshold": 14.6835,
+      "overweight_threshold": 21.2917,
+      "obesity_threshold": 28.648
+    },
+    {
+      "age_months": 141.5,
+      "underweight_threshold": 14.7202,
+      "overweight_threshold": 21.363,
+      "obesity_threshold": 28.7614
+    },
+    {
+      "age_months": 142.5,
+      "underweight_threshold": 14.7574,
+      "overweight_threshold": 21.4342,
+      "obesity_threshold": 28.8743
+    },
+    {
+      "age_months": 143.5,
+      "underweight_threshold": 14.7948,
+      "overweight_threshold": 21.5051,
+      "obesity_threshold": 28.9867
+    },
+    {
+      "age_months": 144.5,
+      "underweight_threshold": 14.8326,
+      "overweight_threshold": 21.5757,
+      "obesity_threshold": 29.0986
+    },
+    {
+      "age_months": 145.5,
+      "underweight_threshold": 14.8707,
+      "overweight_threshold": 21.6461,
+      "obesity_threshold": 29.2099
+    },
+    {
+      "age_months": 146.5,
+      "underweight_threshold": 14.9091,
+      "overweight_threshold": 21.7162,
+      "obesity_threshold": 29.3208
+    },
+    {
+      "age_months": 147.5,
+      "underweight_threshold": 14.9478,
+      "overweight_threshold": 21.786,
+      "obesity_threshold": 29.4311
+    },
+    {
+      "age_months": 148.5,
+      "underweight_threshold": 14.9868,
+      "overweight_threshold": 21.8555,
+      "obesity_threshold": 29.5409
+    },
+    {
+      "age_months": 149.5,
+      "underweight_threshold": 15.0261,
+      "overweight_threshold": 21.9247,
+      "obesity_threshold": 29.6501
+    },
+    {
+      "age_months": 150.5,
+      "underweight_threshold": 15.0656,
+      "overweight_threshold": 21.9935,
+      "obesity_threshold": 29.7588
+    },
+    {
+      "age_months": 151.5,
+      "underweight_threshold": 15.1054,
+      "overweight_threshold": 22.0619,
+      "obesity_threshold": 29.8669
+    },
+    {
+      "age_months": 152.5,
+      "underweight_threshold": 15.1454,
+      "overweight_threshold": 22.1301,
+      "obesity_threshold": 29.9744
+    },
+    {
+      "age_months": 153.5,
+      "underweight_threshold": 15.1856,
+      "overweight_threshold": 22.1978,
+      "obesity_threshold": 30.0813
+    },
+    {
+      "age_months": 154.5,
+      "underweight_threshold": 15.226,
+      "overweight_threshold": 22.2652,
+      "obesity_threshold": 30.1876
+    },
+    {
+      "age_months": 155.5,
+      "underweight_threshold": 15.2667,
+      "overweight_threshold": 22.3321,
+      "obesity_threshold": 30.2933
+    },
+    {
+      "age_months": 156.5,
+      "underweight_threshold": 15.3075,
+      "overweight_threshold": 22.3987,
+      "obesity_threshold": 30.3984
+    },
+    {
+      "age_months": 157.5,
+      "underweight_threshold": 15.3485,
+      "overweight_threshold": 22.4648,
+      "obesity_threshold": 30.5029
+    },
+    {
+      "age_months": 158.5,
+      "underweight_threshold": 15.3897,
+      "overweight_threshold": 22.5305,
+      "obesity_threshold": 30.6068
+    },
+    {
+      "age_months": 159.5,
+      "underweight_threshold": 15.431,
+      "overweight_threshold": 22.5958,
+      "obesity_threshold": 30.71
+    },
+    {
+      "age_months": 160.5,
+      "underweight_threshold": 15.4724,
+      "overweight_threshold": 22.6607,
+      "obesity_threshold": 30.8126
+    },
+    {
+      "age_months": 161.5,
+      "underweight_threshold": 15.514,
+      "overweight_threshold": 22.7251,
+      "obesity_threshold": 30.9146
+    },
+    {
+      "age_months": 162.5,
+      "underweight_threshold": 15.5557,
+      "overweight_threshold": 22.789,
+      "obesity_threshold": 31.016
+    },
+    {
+      "age_months": 163.5,
+      "underweight_threshold": 15.5975,
+      "overweight_threshold": 22.8525,
+      "obesity_threshold": 31.1167
+    },
+    {
+      "age_months": 164.5,
+      "underweight_threshold": 15.6394,
+      "overweight_threshold": 22.9155,
+      "obesity_threshold": 31.2168
+    },
+    {
+      "age_months": 165.5,
+      "underweight_threshold": 15.6814,
+      "overweight_threshold": 22.978,
+      "obesity_threshold": 31.3162
+    },
+    {
+      "age_months": 166.5,
+      "underweight_threshold": 15.7234,
+      "overweight_threshold": 23.0401,
+      "obesity_threshold": 31.415
+    },
+    {
+      "age_months": 167.5,
+      "underweight_threshold": 15.7654,
+      "overweight_threshold": 23.1016,
+      "obesity_threshold": 31.5131
+    },
+    {
+      "age_months": 168.5,
+      "underweight_threshold": 15.8075,
+      "overweight_threshold": 23.1626,
+      "obesity_threshold": 31.6107
+    },
+    {
+      "age_months": 169.5,
+      "underweight_threshold": 15.8496,
+      "overweight_threshold": 23.2232,
+      "obesity_threshold": 31.7075
+    },
+    {
+      "age_months": 170.5,
+      "underweight_threshold": 15.8917,
+      "overweight_threshold": 23.2832,
+      "obesity_threshold": 31.8038
+    },
+    {
+      "age_months": 171.5,
+      "underweight_threshold": 15.9338,
+      "overweight_threshold": 23.3427,
+      "obesity_threshold": 31.8994
+    },
+    {
+      "age_months": 172.5,
+      "underweight_threshold": 15.9759,
+      "overweight_threshold": 23.4017,
+      "obesity_threshold": 31.9943
+    },
+    {
+      "age_months": 173.5,
+      "underweight_threshold": 16.0179,
+      "overweight_threshold": 23.4601,
+      "obesity_threshold": 32.0887
+    },
+    {
+      "age_months": 174.5,
+      "underweight_threshold": 16.0599,
+      "overweight_threshold": 23.518,
+      "obesity_threshold": 32.1824
+    },
+    {
+      "age_months": 175.5,
+      "underweight_threshold": 16.1018,
+      "overweight_threshold": 23.5754,
+      "obesity_threshold": 32.2755
+    },
+    {
+      "age_months": 176.5,
+      "underweight_threshold": 16.1436,
+      "overweight_threshold": 23.6322,
+      "obesity_threshold": 32.368
+    },
+    {
+      "age_months": 177.5,
+      "underweight_threshold": 16.1854,
+      "overweight_threshold": 23.6885,
+      "obesity_threshold": 32.4598
+    },
+    {
+      "age_months": 178.5,
+      "underweight_threshold": 16.227,
+      "overweight_threshold": 23.7443,
+      "obesity_threshold": 32.5511
+    },
+    {
+      "age_months": 179.5,
+      "underweight_threshold": 16.2684,
+      "overweight_threshold": 23.7995,
+      "obesity_threshold": 32.6417
+    },
+    {
+      "age_months": 180.5,
+      "underweight_threshold": 16.3097,
+      "overweight_threshold": 23.8542,
+      "obesity_threshold": 32.7318
+    },
+    {
+      "age_months": 181.5,
+      "underweight_threshold": 16.3509,
+      "overweight_threshold": 23.9083,
+      "obesity_threshold": 32.8213
+    },
+    {
+      "age_months": 182.5,
+      "underweight_threshold": 16.3919,
+      "overweight_threshold": 23.9618,
+      "obesity_threshold": 32.9102
+    },
+    {
+      "age_months": 183.5,
+      "underweight_threshold": 16.4326,
+      "overweight_threshold": 24.0148,
+      "obesity_threshold": 32.9985
+    },
+    {
+      "age_months": 184.5,
+      "underweight_threshold": 16.4732,
+      "overweight_threshold": 24.0673,
+      "obesity_threshold": 33.0863
+    },
+    {
+      "age_months": 185.5,
+      "underweight_threshold": 16.5135,
+      "overweight_threshold": 24.1192,
+      "obesity_threshold": 33.1735
+    },
+    {
+      "age_months": 186.5,
+      "underweight_threshold": 16.5536,
+      "overweight_threshold": 24.1705,
+      "obesity_threshold": 33.2602
+    },
+    {
+      "age_months": 187.5,
+      "underweight_threshold": 16.5934,
+      "overweight_threshold": 24.2213,
+      "obesity_threshold": 33.3464
+    },
+    {
+      "age_months": 188.5,
+      "underweight_threshold": 16.6329,
+      "overweight_threshold": 24.2716,
+      "obesity_threshold": 33.432
+    },
+    {
+      "age_months": 189.5,
+      "underweight_threshold": 16.6722,
+      "overweight_threshold": 24.3212,
+      "obesity_threshold": 33.5172
+    },
+    {
+      "age_months": 190.5,
+      "underweight_threshold": 16.7111,
+      "overweight_threshold": 24.3704,
+      "obesity_threshold": 33.6018
+    },
+    {
+      "age_months": 191.5,
+      "underweight_threshold": 16.7496,
+      "overweight_threshold": 24.419,
+      "obesity_threshold": 33.686
+    },
+    {
+      "age_months": 192.5,
+      "underweight_threshold": 16.7879,
+      "overweight_threshold": 24.467,
+      "obesity_threshold": 33.7697
+    },
+    {
+      "age_months": 193.5,
+      "underweight_threshold": 16.8257,
+      "overweight_threshold": 24.5145,
+      "obesity_threshold": 33.8529
+    },
+    {
+      "age_months": 194.5,
+      "underweight_threshold": 16.8632,
+      "overweight_threshold": 24.5615,
+      "obesity_threshold": 33.9358
+    },
+    {
+      "age_months": 195.5,
+      "underweight_threshold": 16.9003,
+      "overweight_threshold": 24.6079,
+      "obesity_threshold": 34.0182
+    },
+    {
+      "age_months": 196.5,
+      "underweight_threshold": 16.9369,
+      "overweight_threshold": 24.6538,
+      "obesity_threshold": 34.1001
+    },
+    {
+      "age_months": 197.5,
+      "underweight_threshold": 16.9731,
+      "overweight_threshold": 24.6991,
+      "obesity_threshold": 34.1817
+    },
+    {
+      "age_months": 198.5,
+      "underweight_threshold": 17.0088,
+      "overweight_threshold": 24.7439,
+      "obesity_threshold": 34.263
+    },
+    {
+      "age_months": 199.5,
+      "underweight_threshold": 17.044,
+      "overweight_threshold": 24.7882,
+      "obesity_threshold": 34.3438
+    },
+    {
+      "age_months": 200.5,
+      "underweight_threshold": 17.0788,
+      "overweight_threshold": 24.832,
+      "obesity_threshold": 34.4244
+    },
+    {
+      "age_months": 201.5,
+      "underweight_threshold": 17.113,
+      "overweight_threshold": 24.8753,
+      "obesity_threshold": 34.5046
+    },
+    {
+      "age_months": 202.5,
+      "underweight_threshold": 17.1467,
+      "overweight_threshold": 24.9181,
+      "obesity_threshold": 34.5845
+    },
+    {
+      "age_months": 203.5,
+      "underweight_threshold": 17.1798,
+      "overweight_threshold": 24.9604,
+      "obesity_threshold": 34.6641
+    },
+    {
+      "age_months": 204.5,
+      "underweight_threshold": 17.2123,
+      "overweight_threshold": 25.0022,
+      "obesity_threshold": 34.7435
+    },
+    {
+      "age_months": 205.5,
+      "underweight_threshold": 17.2443,
+      "overweight_threshold": 25.0435,
+      "obesity_threshold": 34.8227
+    },
+    {
+      "age_months": 206.5,
+      "underweight_threshold": 17.2756,
+      "overweight_threshold": 25.0843,
+      "obesity_threshold": 34.9016
+    },
+    {
+      "age_months": 207.5,
+      "underweight_threshold": 17.3063,
+      "overweight_threshold": 25.1247,
+      "obesity_threshold": 34.9803
+    },
+    {
+      "age_months": 208.5,
+      "underweight_threshold": 17.3363,
+      "overweight_threshold": 25.1646,
+      "obesity_threshold": 35.0589
+    },
+    {
+      "age_months": 209.5,
+      "underweight_threshold": 17.3656,
+      "overweight_threshold": 25.204,
+      "obesity_threshold": 35.1373
+    },
+    {
+      "age_months": 210.5,
+      "underweight_threshold": 17.3943,
+      "overweight_threshold": 25.243,
+      "obesity_threshold": 35.2156
+    },
+    {
+      "age_months": 211.5,
+      "underweight_threshold": 17.4222,
+      "overweight_threshold": 25.2816,
+      "obesity_threshold": 35.2938
+    },
+    {
+      "age_months": 212.5,
+      "underweight_threshold": 17.4494,
+      "overweight_threshold": 25.3197,
+      "obesity_threshold": 35.3719
+    },
+    {
+      "age_months": 213.5,
+      "underweight_threshold": 17.4758,
+      "overweight_threshold": 25.3574,
+      "obesity_threshold": 35.4499
+    },
+    {
+      "age_months": 214.5,
+      "underweight_threshold": 17.5014,
+      "overweight_threshold": 25.3948,
+      "obesity_threshold": 35.528
+    },
+    {
+      "age_months": 215.5,
+      "underweight_threshold": 17.5262,
+      "overweight_threshold": 25.4317,
+      "obesity_threshold": 35.606
+    },
+    {
+      "age_months": 216.5,
+      "underweight_threshold": 17.5502,
+      "overweight_threshold": 25.4682,
+      "obesity_threshold": 35.6841
+    },
+    {
+      "age_months": 217.5,
+      "underweight_threshold": 17.5733,
+      "overweight_threshold": 25.5044,
+      "obesity_threshold": 35.7622
+    },
+    {
+      "age_months": 218.5,
+      "underweight_threshold": 17.5955,
+      "overweight_threshold": 25.5402,
+      "obesity_threshold": 35.8404
+    },
+    {
+      "age_months": 219.5,
+      "underweight_threshold": 17.6169,
+      "overweight_threshold": 25.5757,
+      "obesity_threshold": 35.9187
+    },
+    {
+      "age_months": 220.5,
+      "underweight_threshold": 17.6373,
+      "overweight_threshold": 25.6108,
+      "obesity_threshold": 35.9972
+    },
+    {
+      "age_months": 221.5,
+      "underweight_threshold": 17.6568,
+      "overweight_threshold": 25.6456,
+      "obesity_threshold": 36.0759
+    },
+    {
+      "age_months": 222.5,
+      "underweight_threshold": 17.6754,
+      "overweight_threshold": 25.68,
+      "obesity_threshold": 36.1547
+    },
+    {
+      "age_months": 223.5,
+      "underweight_threshold": 17.6929,
+      "overweight_threshold": 25.7142,
+      "obesity_threshold": 36.2339
+    },
+    {
+      "age_months": 224.5,
+      "underweight_threshold": 17.7095,
+      "overweight_threshold": 25.7481,
+      "obesity_threshold": 36.3132
+    },
+    {
+      "age_months": 225.5,
+      "underweight_threshold": 17.725,
+      "overweight_threshold": 25.7817,
+      "obesity_threshold": 36.3929
+    },
+    {
+      "age_months": 226.5,
+      "underweight_threshold": 17.7395,
+      "overweight_threshold": 25.815,
+      "obesity_threshold": 36.4729
+    },
+    {
+      "age_months": 227.5,
+      "underweight_threshold": 17.7529,
+      "overweight_threshold": 25.8481,
+      "obesity_threshold": 36.5534
+    },
+    {
+      "age_months": 228.5,
+      "underweight_threshold": 17.7652,
+      "overweight_threshold": 25.881,
+      "obesity_threshold": 36.6342
+    },
+    {
+      "age_months": 229.5,
+      "underweight_threshold": 17.7763,
+      "overweight_threshold": 25.9137,
+      "obesity_threshold": 36.7154
+    },
+    {
+      "age_months": 230.5,
+      "underweight_threshold": 17.7864,
+      "overweight_threshold": 25.9461,
+      "obesity_threshold": 36.7972
+    },
+    {
+      "age_months": 231.5,
+      "underweight_threshold": 17.7952,
+      "overweight_threshold": 25.9784,
+      "obesity_threshold": 36.8794
+    },
+    {
+      "age_months": 232.5,
+      "underweight_threshold": 17.8029,
+      "overweight_threshold": 26.0105,
+      "obesity_threshold": 36.9622
+    },
+    {
+      "age_months": 233.5,
+      "underweight_threshold": 17.8093,
+      "overweight_threshold": 26.0424,
+      "obesity_threshold": 37.0457
+    },
+    {
+      "age_months": 234.5,
+      "underweight_threshold": 17.8146,
+      "overweight_threshold": 26.0742,
+      "obesity_threshold": 37.1297
+    },
+    {
+      "age_months": 235.5,
+      "underweight_threshold": 17.8185,
+      "overweight_threshold": 26.1058,
+      "obesity_threshold": 37.2144
+    },
+    {
+      "age_months": 236.5,
+      "underweight_threshold": 17.8212,
+      "overweight_threshold": 26.1374,
+      "obesity_threshold": 37.2999
+    },
+    {
+      "age_months": 237.5,
+      "underweight_threshold": 17.8226,
+      "overweight_threshold": 26.1689,
+      "obesity_threshold": 37.3861
+    },
+    {
+      "age_months": 238.5,
+      "underweight_threshold": 17.8226,
+      "overweight_threshold": 26.2002,
+      "obesity_threshold": 37.4731
+    },
+    {
+      "age_months": 239.5,
+      "underweight_threshold": 17.8213,
+      "overweight_threshold": 26.2316,
+      "obesity_threshold": 37.5609
+    },
+    {
+      "age_months": 240.0,
+      "underweight_threshold": 17.8201,
+      "overweight_threshold": 26.2472,
+      "obesity_threshold": 37.6051
+    },
+    {
+      "age_months": 240.5,
+      "underweight_threshold": 17.8186,
+      "overweight_threshold": 26.2629,
+      "obesity_threshold": 37.6496
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Display column names to identify the correct ones
+df.columns
+Index(['sex', 'agemos', 'L', 'M', 'S', 'sigma', 'P3', 'P5', 'P10', 'P25',
+       'P50', 'P75', 'P85', 'P90', 'P95', 'P98', 'P99', 'P99_9', 'P99_99',
+       'pct120ofP95', 'Z2neg', 'Z1_5neg', 'Z1neg', 'Z0_5neg', 'Z0', 'Z0_5',
+       'Z1', 'Z1_5', 'Z2', 'Z2_5', 'Z3', 'Z3_5', 'Z4', 'Z4_5', 'Z5'],
+      dtype='object')
